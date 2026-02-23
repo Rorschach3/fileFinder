@@ -1,0 +1,20 @@
+[2024-06-01 09:00:12] Alice: Good morning! Did you catch the game last night?
+[2024-06-01 09:01:45] Bob: Morning! Yeah, incredible match. That last-minute goal was insane!
+[2024-06-01 09:02:30] Alice: I know right! I was on the edge of my seat the whole time.
+[2024-06-01 09:03:10] Bob: Are you joining us for the watch party next weekend?
+[2024-06-01 09:04:22] Alice: Absolutely! I wouldn't miss it. Should I bring anything?
+[2024-06-01 09:05:01] Bob: Just bring yourself! We've got food covered. Maybe some drinks?
+[2024-06-01 09:06:17] Alice: Perfect, I'll bring a case of sparkling water and some snacks.
+[2024-06-01 09:07:44] Bob: Sounds great. Kickoff is at 7 PM, come a bit early if you can.
+[2024-06-01 09:08:33] Alice: I'll be there by 6:30. Can I bring my roommate too?
+[2024-06-01 09:09:55] Bob: Of course! The more the merrier.
+[2024-06-01 18:30:00] Alice: Hey, just confirming for tomorrow. Still on?
+[2024-06-01 18:32:11] Bob: 100%! Everyone's excited. We set up the projector already.
+[2024-06-01 18:33:44] Alice: Amazing! See you tomorrow evening then.
+[2024-06-01 18:34:02] Bob: See you then! Don't forget the snacks 😄
+[2024-06-02 19:15:00] Alice: On my way! Traffic is a bit rough.
+[2024-06-02 19:16:30] Bob: No worries, we just started the pre-game show.
+[2024-06-02 19:45:10] Alice: Just arrived, what a game so far!
+[2024-06-02 21:48:03] Bob: WHAT A NIGHT! Did you see that comeback?!
+[2024-06-02 21:49:22] Alice: Unbelievable!! Best watch party ever. Thanks for hosting!
+[2024-06-02 21:50:47] Bob: Glad you made it! Let's do this again next month.
